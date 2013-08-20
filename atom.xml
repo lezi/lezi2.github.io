@@ -4,11 +4,11 @@
   <title><![CDATA[Osvaldo Junior]]></title>
   <link href="http://osvaldo.me/atom.xml" rel="self"/>
   <link href="http://osvaldo.me/"/>
-  <updated>2013-08-20T11:20:11+00:00</updated>
+  <updated>2013-08-20T13:46:02+00:00</updated>
   <id>http://osvaldo.me/</id>
   <author>
     <name><![CDATA[Osvaldo Júnior]]></name>
-    
+    <email><![CDATA[lupazu@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
