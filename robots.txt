@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://lezi.github.io/sitemap.xml 
+Sitemap: http://osvaldo.me/sitemap.xml 
