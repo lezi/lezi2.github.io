@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Osvaldo Junior]]></title>
-  <link href="http://osvaldo.me/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Teste | Osvaldo Junior]]></title>
+  <link href="http://osvaldo.me/blog/categories/teste/atom.xml" rel="self"/>
   <link href="http://osvaldo.me/"/>
   <updated>2013-09-03T10:04:27+00:00</updated>
   <id>http://osvaldo.me/</id>
