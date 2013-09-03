@@ -1,3 +1,16 @@
 <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+{% if site.facebook_appid %}
+<meta property="fb:app_id" content="{{ site.facebook_appid }}" />
+{% endif %}
+<meta name="description" content="{{ site.description }}" />
+<meta name="keywords" content="{{ site.keywords }}" />
+<meta property="og:locale" content="pt">
+<!--<meta property="og:title" content="{% unless page.top %}{{ page.title }} | {% endunless %}{{ site.title }}" />-->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+<meta property="og:image" content="{{ site.url }}/img/logo1.png" />
+<meta property="og:site_name" content="{{ site.title }}" />
+<meta property="og:description" content="{{ page.summary }}" />
