@@ -52,3 +52,33 @@ excerpt_separator: "<!-- more -->"
 
 sass:
     sass_dir: assets/_sass
+    
+# Google Plus Profile
+# Hidden: No visible button, just add author information to search results
+googleplus_user: 118441555665433735446
+googleplus_hidden: false
+
+# Pinboard
+pinboard_user:
+pinboard_count: 3
+
+# Delicious
+delicious_user:
+delicious_count: 3
+
+# Disqus Comments
+disqus_short_name: osvaldome
+disqus_show_comment_count: false
+
+# Google Analytics
+google_analytics_tracking_id: UA-43308679-1
+
+# Facebook Like
+facebook_like: true
+
+# Face comments
+facebook_appid: 352067288256995
+
+#Stackoverflow
+stackoverflow_user: mwanalezi
+stackoverflow_user_id: 452368
