@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Osvaldo Junior]]></title>
+  <link href="http://osvaldo.me/atom.xml" rel="self"/>
+  <link href="http://osvaldo.me/"/>
+  <updated>2013-09-03T10:48:04+00:00</updated>
+  <id>http://osvaldo.me/</id>
+  <author>
+    <name><![CDATA[Osvaldo Júnior]]></name>
+    <email><![CDATA[mwanalezi@hotmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Teste]]></title>
+    <link href="http://osvaldo.me/blog/2013/09/03/teste/"/>
+    <updated>2013-09-03T09:34:00+00:00</updated>
+    <id>http://osvaldo.me/blog/2013/09/03/teste</id>
+    <content type="html"><![CDATA[<p>Post Teste</p>
+]]></content>
+  </entry>
+  
+</feed>

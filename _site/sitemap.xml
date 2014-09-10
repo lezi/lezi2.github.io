@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://osvaldo.me/blog/2013/09/03/teste/</loc>
+        <lastmod>2013-09-03T10:31:22+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://osvaldo.me/blog/archives/</loc>
+        <lastmod>2013-09-03T09:38:13+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://osvaldo.me/blog/categories/</loc>
+        <lastmod>2013-08-20T11:08:39+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://osvaldo.me/</loc>
+        <lastmod>2013-09-03T09:38:13+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://osvaldo.me/robots.txt</loc>
+        <lastmod>2013-08-20T10:28:54+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://osvaldo.me/sobre/</loc>
+        <lastmod>2013-09-03T09:30:03+00:00</lastmod>
+    </url>
+</urlset>
